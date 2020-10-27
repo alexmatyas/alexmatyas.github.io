@@ -1190,7 +1190,7 @@ input[type="checkbox"]:checked ~ .top_menu_list {
         display: none;
     }
     .mobile_about {
-        margin: 15px;
+        margin: 25px 15px 0px;
     }
     .mobile_list {
         padding-left: 202px;
