@@ -1208,6 +1208,12 @@ input[type="checkbox"]:checked ~ .top_menu_list {
     .page_stat_list::after {
         margin-bottom: 30px;
     }
+    .post_head {
+        margin: 20px 0 15px 27px;
+    }
+    .post_link {
+        margin: 15px 0 25px 27px;
+    }
     .post_btns {
         margin: 0;
         display: none;
